@@ -1,0 +1,7 @@
+hello
+world
+shark
+table
+computer
+hangman
+monitor
